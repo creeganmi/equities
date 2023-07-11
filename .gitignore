@@ -1,0 +1,62 @@
+# per-project virtualenvs
+.venv*/
+.conda*/
+
+data/generated
+~$*.xlsx
+venv.*
+
+# temporary and binary files
+*~
+*.py[cod]
+*.so
+*.cfg
+!.isort.cfg
+!.setup.cfg
+*.orig
+*.log
+*.project
+__pycache__/*
+.cache/*
+.*.swp
+*/.ipynb_checkpoints/*
+.DS_STORE
+venv/*
+
+# project files
+.ropeproject
+.project
+.pydevproject
+.settings
+.idea
+.vscode
+.tags
+
+# package files
+*.egg
+*.eggs/
+.installed.cfg
+*.egg-info
+
+# unittest and coverage
+htmlcov/*
+.coverage
+.coverage.*
+.tox
+junit*.xml
+coverage.xml
+.pytest_cache/
+
+# buld and docs folder/files
+bild/*
+dist/*
+sdist/*
+docs/api/*
+docs/api/*
+docs/_rst/*
+docs/_build/*
+cover/*
+MANIFEST
+
+# secrets
+config.py
