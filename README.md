@@ -6,7 +6,7 @@
 
 <h3> 💻 &nbsp;What is this?</h3>
 
-- 🤔 &nbsp; Crating datasets through webscraping, creating dashboards to help evaluate investment opportunities!
+- 🤔 &nbsp; Creating datasets through webscraping, creating dashboards to help evaluate investment opportunities!
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
